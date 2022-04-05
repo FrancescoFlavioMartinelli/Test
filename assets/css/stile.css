@@ -191,6 +191,10 @@ top: 0;
     display: none;
 }
 
+.rosso {
+    color: red;
+}
+
 #menu {
     position: fixed;
     right: 0;
